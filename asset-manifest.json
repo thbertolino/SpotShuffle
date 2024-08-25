@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpotShuffle/static/css/main.e6c13ad2.css",
+    "main.js": "/SpotShuffle/static/js/main.fa4baeeb.js",
+    "static/js/453.23ef3c68.chunk.js": "/SpotShuffle/static/js/453.23ef3c68.chunk.js",
+    "index.html": "/SpotShuffle/index.html",
+    "main.e6c13ad2.css.map": "/SpotShuffle/static/css/main.e6c13ad2.css.map",
+    "main.fa4baeeb.js.map": "/SpotShuffle/static/js/main.fa4baeeb.js.map",
+    "453.23ef3c68.chunk.js.map": "/SpotShuffle/static/js/453.23ef3c68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fa4baeeb.js"
+  ]
+}
