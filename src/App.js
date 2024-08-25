@@ -2,7 +2,8 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
 const CLIENT_ID = '39300b1668d6473783173aa8629ccf6f';
-const REDIRECT_URI = 'http://localhost:3000/callback';
+const REDIRECT_URI = 'https://thbertolino.github.io/SpotShuffle/callback';
+// const REDIRECT_URI = 'http://localhost:3000/callback';
 const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize';
 const RESPONSE_TYPE = 'token';
 
